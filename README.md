@@ -1,5 +1,4 @@
 ### Opa bom? Me chama de Muniz
-  Sou recem formado em TI pelo IFC Araquari e no momento estou á procura de projetos interessantes para expandir meus horizontes
   
   <br></br>
   
