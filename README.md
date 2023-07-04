@@ -1,16 +1,24 @@
-### Opa bom? Me chama de Muniz
+### Opa, bom? Me chama de Muniz 🤝
   
   <br></br>
   
   ✨ Um pouco sobre mim✨
   
-   Sou apaixonado em customização, sim eu perco horas mudando corzinhas 😍 
+   Advogo por uma internet livre e aberta 🌐 
    
    Prefiro ler e decifrar o código dos outros do que de fato codar 🤫   
    
-   As vezes eu brinco com arduino 🤖
+   Desenvolvo gadgets e sou fiel entusiasta do ESP32 🤖
+
+   Atual detentor do centésimo sexagésimo sexto melhor tempo do Brasil(23.486s) na categoria 20L do Jstris 😎
    
-   
+   Projetos abertos que uso diariamente:
+     https://github.com/omriharel/deej 🎚️
+     https://github.com/spicetify 💽
+     https://www.blender.org/ 🖼️
+     https://github.com/qmk ⌨️
+
+  Qualquer dia desses eu documento e posto o projeto do meu teclado custom 😉 
 ##
 
 <h3 align="left">Linguagens:</h3>
