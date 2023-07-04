@@ -13,10 +13,10 @@
    Atual detentor do centésimo sexagésimo sexto melhor tempo do Brasil(23.486s) na categoria 20L do Jstris 😎
    
    Projetos abertos que uso diariamente:
-     https://github.com/omriharel/deej 🎚️
-     https://github.com/spicetify 💽
-     https://www.blender.org/ 🖼️
-     https://github.com/qmk ⌨️
+     https://github.com/omriharel/deej 🎚️   <br></br>
+     https://github.com/spicetify 💽   <br></br>
+     https://www.blender.org/ 🖼️   <br></br>
+     https://github.com/qmk ⌨️   <br></br>
 
   Qualquer dia desses eu documento e posto o projeto do meu teclado custom 😉 
 ##
