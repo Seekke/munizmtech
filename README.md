@@ -12,7 +12,7 @@
 
    Atual detentor do centésimo sexagésimo sexto melhor tempo do Brasil(23.486s) na categoria 20L do Jstris 😎
    
-   Projetos abertos que uso diariamente:
+   Projetos abertos que uso diariamente:   <br></br>
      https://github.com/omriharel/deej 🎚️   <br></br>
      https://github.com/spicetify 💽   <br></br>
      https://www.blender.org/ 🖼️   <br></br>
